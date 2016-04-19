@@ -1,0 +1,39 @@
+{
+  "name": "styles-boostrap",
+  "version": "1.0.0",
+  "description": "Estilos de boostrap usando gulp",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarfedezal/styles-boostrap.git"
+  },
+  "keywords": [
+    "boostrap",
+    "gulp",
+    "css",
+    "javascript"
+  ],
+  "author": "Oscar Fernandez Alzate",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.2",
+    "nib": "^1.1.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/oscarfedezal/styles-boostrap/issues"
+  },
+  "homepage": "https://github.com/oscarfedezal/styles-boostrap#readme"
+}
